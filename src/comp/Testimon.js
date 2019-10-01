@@ -3,7 +3,7 @@ import React from 'react';
 const Testimon = () => {
 	return (
 		<div className="container">
-			<h1 className="large text-center p-1">Client's Testimonilas </h1>
+			<h1 className="large text-center p-1">Client's Testimony </h1>
 			<hr />
 			<div className="test p-1">
 				<div className="tests">
