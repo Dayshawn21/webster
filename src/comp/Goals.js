@@ -8,6 +8,7 @@ const Goals = () => {
 		<div className="container text-center">
 			<h1 className="large">Program</h1>
 			<hr />
+
 			<div className="goals  p-2">
 				<div className="goal p-2  ">
 					<img src={IMG1} alt="" />

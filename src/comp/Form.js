@@ -21,8 +21,9 @@ const Form = () => {
 		});
 	return (
 		<div className="about-me p-2">
+			<h1 className="large">Tell Us About You</h1>
+			<hr />
 			<form className=" container text-center form-group form-container" action="">
-				<h2>Tell Us About You</h2>
 				<input type="text" name="name" placeholder="Name" value={name} onChange={onChange} />
 				<input type="email" placeholder="Email" name="email" value={email} onChange={onChange} />
 				<input type="text" placeholder="Phone" name="phone" value={phone} onChange={onChange} />
